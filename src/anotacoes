@@ -1,0 +1,41 @@
+Sobre como digitar seu codigo
+
+Nomes de classes: Devem começar com letra maiúscula e usar PascalCase.
+
+Exemplo: MinhaClasse.
+Nomes de métodos: Devem começar com letra minúscula e usar camelCase.
+
+Exemplo: meuMetodo().
+Nomes de constantes: Devem ser totalmente em letras maiúsculas, separadas por underline.
+
+Exemplo: MINHA_CONSTANTE.
+Nomes de variáveis: Devem começar com letra minúscula e usar camelCase.
+
+Exemplo: minhaVariavel.
+Comprimento das linhas: Máximo de 80 caracteres para facilitar a leitura.
+
+Espaços em branco: Use para separar operadores, palavras-chave e elementos de controle de fluxo.
+
+Exemplo: if (condicao) {.
+Comentários: Devem ser usados para documentar o código, explicando o que e por que ele faz algo. No entanto, há um debate sobre isso, pois muitos acreditam que um código bem escrito com nomes descritivos dispensa a necessidade de comentários extensivos.
+
+Tipo de dados
+Em Java, os tipos primitivos são os tipos de dados mais básicos e fundamentais, utilizados para representar valores simples. Java possui oito tipos primitivos, cada um com características específicas:
+
+boolean: Representa valores lógicos, podendo ser true ou false. Usado em expressões condicionais e loops.
+
+byte: Representa inteiros de 8 bits, com faixa de valores de -128 a 127.
+
+char: Representa caracteres individuais, podendo armazenar qualquer caractere Unicode, usando aspas simples ('').
+
+short: Representa inteiros de 16 bits, com faixa de valores de -32.768 a 32.767.
+
+int: Representa inteiros de 32 bits, com faixa de valores de -2.147.483.648 a 2.147.483.647. É um dos tipos mais utilizados para números inteiros.
+
+long: Representa inteiros de 64 bits, com faixa de valores de -9.223.372.036.854.775.808 a 9.223.372.036.854.775.807.
+
+float: Representa números de ponto flutuante de 32 bits, com precisão de até sete dígitos. Utilizado para números decimais com precisão limitada.
+
+double: Similar ao float, mas ocupa 64 bits e pode representar números decimais com precisão de até 15 dígitos.
+
+Cada tipo primitivo tem uma faixa de valores e uso específico, permitindo a representação eficiente de diferentes tipos de dados no Java
